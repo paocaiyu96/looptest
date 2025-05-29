@@ -1,3 +1,3 @@
-import * as A from './A'
+import * as C from './C'
 
 export {}
